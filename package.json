@@ -2,6 +2,17 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Anthony Amiluddin",
 	"description": "A project for learning how to manage packages using npm and package.json",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"package",
+		"nodejs",
+		"backend",
+		"dependencies",
+		"javascript",
+		"learning",
+		"project"	
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
